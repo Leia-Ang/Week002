@@ -5,6 +5,11 @@
     <string name ="Text">Large Text</string>
     <string name ="Button2">BUTTON 2</string>
 
+    //Exercise 1
+    <string name ="name">Name:</string>
+    <string name ="Password">Password:</string>
+    <string name ="Login">LOGIN</string>
+    <string name ="Cancel">CANCEL</string>
 
 
 </resources>
